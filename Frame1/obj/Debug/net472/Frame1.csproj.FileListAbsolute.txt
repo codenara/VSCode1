@@ -1,0 +1,8 @@
+C:\Users\wing4\Source\Quick\Code1\Frame1\bin\Debug\net472\Frame1.exe
+C:\Users\wing4\Source\Quick\Code1\Frame1\bin\Debug\net472\Frame1.pdb
+C:\Users\wing4\Source\Quick\Code1\Frame1\obj\Debug\net472\Frame1.csprojAssemblyReference.cache
+C:\Users\wing4\Source\Quick\Code1\Frame1\obj\Debug\net472\Frame1.csproj.CoreCompileInputs.cache
+C:\Users\wing4\Source\Quick\Code1\Frame1\obj\Debug\net472\Frame1.AssemblyInfoInputs.cache
+C:\Users\wing4\Source\Quick\Code1\Frame1\obj\Debug\net472\Frame1.AssemblyInfo.cs
+C:\Users\wing4\Source\Quick\Code1\Frame1\obj\Debug\net472\Frame1.exe
+C:\Users\wing4\Source\Quick\Code1\Frame1\obj\Debug\net472\Frame1.pdb
